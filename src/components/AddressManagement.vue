@@ -1,6 +1,6 @@
 <script setup>
 import { ref, watch, onMounted, reactive } from 'vue';
-import axios from 'axios';
+import axios from 'redaxios';
 import { useAddressStore } from '@/stores/addressStore';
 
 const addressStore = useAddressStore();
