@@ -204,7 +204,7 @@ const setupValues = async () => {
                       </v-col>
                     </v-row>
                   </form>
-                </v-window-item>
+                </v-window-item> 
 
                 <v-window-item value="two">
                   Europe
