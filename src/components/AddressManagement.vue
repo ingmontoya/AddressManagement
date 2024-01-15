@@ -101,7 +101,7 @@ const save = () => {
 };
 
 const Key = 'RH25-CW45-RJ99-FF86';
-const url = 'http://ws1.postescanada-canadapost.ca/AddressComplete/Interactive/Find/v2.10/json3.ws';
+const url = 'https://ws1.postescanada-canadapost.ca/AddressComplete/Interactive/Find/v2.10/json3.ws';
 
 const autocompleteOptions = ref({
   Items: [],
